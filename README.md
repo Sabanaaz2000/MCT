@@ -1,4 +1,4 @@
-# MCTAssignment
+# Assignment
 Java maven springBoot
 
 This project is a Music Streaming Service API that allows users and Admin to manage songs and playlists. It provides endpoints for CRUD operations on songs and playlists, with additional features for admin.
@@ -33,6 +33,7 @@ DELETE/user/playlist
 Data Structure Used
 SQL database
 
+AWS Deployment Link : http://13.232.180.169:8080/swagger-ui/index.html
 
 
 
